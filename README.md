@@ -1,5 +1,5 @@
 # 💫 Meet Chaudary:
-👋 Hi, I’m Muhammad Farhan Saleem (Chaudary)<br>🎓 BS Computer Science Student | Aspiring Data Analyst & ML Engineer<br>💼 Intern at TheCodeV | Completed Virtual Internships at Quantium (Data Analytics) & British Airways (Data Science) via Forage<br>📊 Passionate about Data Analytics, AI, and Backend Development<br>🔧 Skills: Python | SQL | Power BI | Flask | Git | MySQL<br>📚 Currently enrolled in the Google Data Analytics Professional Certificate<br>🎯 Short-Term Goal: Become a skilled Data Analyst by 2025<br>🚀 Long-Term Goal: Transition into a Machine Learning Engineer, solving real-world problems with data
+👋 Hi, I’m Muhammad Farhan Saleem (Chaudary)<br>🎓 BS Computer Science Student | Data Analyst & Aspiring ML Engineer<br>💼 Intern at TheCodeV | Completed Virtual Internships at Quantium (Data Analytics) & British Airways (Data Science) via Forage<br>📊 Passionate about Data Analytics, AI, and Backend Development<br>🔧 Skills: Python | SQL | Power BI | Flask | Git | MySQL<br>📚 Currently enrolled in the Google Data Analytics Professional Certificate<br>🎯 Short-Term Goal: Become a skilled Data Analyst by 2025<br>🚀 Long-Term Goal: Transition into a Machine Learning Engineer, solving real-world problems with data
 
 
 ## 🌐 My Coordinates:
